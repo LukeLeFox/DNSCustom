@@ -1,0 +1,25 @@
+0.0.0.0 updates.amazon.com
+0.0.0.0 softwareupdates.amazon.com 
+0.0.0.0 updates.amazon.com 
+0.0.0.0 fireos-tv-update.amazon.com 
+0.0.0.0 firetv-update.amazon.com 
+0.0.0.0 amzdigitaldownloads.edgesuite.net 
+0.0.0.0 amzdigital-a.akamaihd.net
+0.0.0.0 amzdigitaldownloads.edgesuite.net.cdn.cloudflare.net
+0.0.0.0 d1s31zyz9t6x7f.cloudfront.net
+0.0.0.0 d2s29vt30w8wud.cloudfront.net d1v5ir2lpwr8os.cloudfront.net
+0.0.0.0 ota-device-prod.amazon.com
+0.0.0.0 ota-us.amazon.com
+0.0.0.0 ota-eu.amazon.com
+0.0.0.0 d1s31zyz9v6f4k.cloudfront.net d1xfray82862hr.cloudfront.net
+0.0.0.0 amzdigitaldownloads.edgesuite.net.cdn.cloudflare.net
+0.0.0.0 amzdigital-a.akamaihd.net
+0.0.0.0 updates-ota.amazon.com
+0.0.0.0 ota-cache.amazon.com
+0.0.0.0 ota.s3.amazonaws.com
+0.0.0.0 s3.amazonaws.com/softwareupdates.amazon.com
+0.0.0.0 firetv-updates.amazon.com
+0.0.0.0 fireos-tv-update.amazon.com firetv-update.amazon.com
+0.0.0.0 updates.amazon.com
+0.0.0.0 softwareupdates.amazon.com
+0.0.0.0 amzdigitaldownloads.edgesuite.net
