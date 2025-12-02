@@ -24,3 +24,4 @@
 0.0.0.0 softwareupdates.amazon.com
 0.0.0.0 amzdigitaldownloads.edgesuite.net
 0.0.0.0 msh.amazon.co.uk
+0.0.0.0 www.nist.gov
