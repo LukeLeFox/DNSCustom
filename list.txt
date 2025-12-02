@@ -24,6 +24,6 @@
 0.0.0.0 softwareupdates.amazon.com
 0.0.0.0 amzdigitaldownloads.edgesuite.net
 0.0.0.0 msh.amazon.co.uk
-0.0.0.0 www.nist.gov
+0.0.0.0 wwv.nist.gov
 0.0.0.0 service.pogoplug.com
 0.0.0.0 secure.pogoplug.com
