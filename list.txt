@@ -1,5 +1,3 @@
-0.0.0.0 updates.amazon.com
-0.0.0.0 softwareupdates.amazon.com 
 0.0.0.0 updates.amazon.com 
 0.0.0.0 fireos-tv-update.amazon.com 
 0.0.0.0 firetv-update.amazon.com 
@@ -17,13 +15,10 @@
 0.0.0.0 updates-ota.amazon.com
 0.0.0.0 ota-cache.amazon.com
 0.0.0.0 ota.s3.amazonaws.com
-0.0.0.0 s3.amazonaws.com/softwareupdates.amazon.com
 0.0.0.0 firetv-updates.amazon.com
 0.0.0.0 fireos-tv-update.amazon.com firetv-update.amazon.com
-0.0.0.0 updates.amazon.com
 0.0.0.0 softwareupdates.amazon.com
 0.0.0.0 amzdigitaldownloads.edgesuite.net
 0.0.0.0 msh.amazon.co.uk
-0.0.0.0 wwv.nist.gov
 0.0.0.0 service.pogoplug.com
 0.0.0.0 secure.pogoplug.com
